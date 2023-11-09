@@ -2,7 +2,9 @@
 
 ## Introduction
 
-Here is my python source code for visualizing how Vietnamese people spend their time: 
+Here is my attempt trying to replicate @uvipen source code for visualizing how Vietnamese people spend their time.
+
+This repo is only for learning purpose. 
 
 ## Result
 By running the sript **moving_points.py**, we will have following output:
